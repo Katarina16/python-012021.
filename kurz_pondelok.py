@@ -1,7 +1,7 @@
 # koment ctrl + /
 item = {"title": "Čajová konvička s hrnčekom","price": "899", "inStock": "True"}
 
-#item["price"] = 929
+item["price"] = 929
 # item["weight"] = 0.5 #pridá ďalší atribút do slovníka
 #
 # print(item)
